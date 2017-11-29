@@ -5,7 +5,7 @@ The master node is initialised using the version of Docker installed on your mac
 
 ## Install Docker on your machine
 
-Install [Docker](https://www.docker.com/.
+Install [Docker](https://www.docker.com).
 
 ## Create Docker in Docker swarm
 
