@@ -9,7 +9,7 @@ Install [Docker](https://www.docker.com).
 
 ## Create Docker in Docker swarm
 
-Run `./initDocker` from commandline/powershell.
+Run `./initSwarm` from commandline/powershell.
 
 ## Deploy some monitoring services to the swarm
 
